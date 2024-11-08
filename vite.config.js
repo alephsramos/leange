@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: "/leange/git.pousadaleange.com.br.", 
+  base: "/leange/code.pousadaleange.com.br", 
 });
